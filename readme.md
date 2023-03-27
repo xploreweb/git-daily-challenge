@@ -20,3 +20,6 @@ Apparently, I didn't commit
 Today is March 16, 2023 - Fresh start!
 
 Today is March 17, 2023 - Going well!
+
+## Week Two
+Today is March 27, 2013 - Fresh start again!
