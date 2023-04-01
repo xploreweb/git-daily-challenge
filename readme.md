@@ -31,3 +31,5 @@ Today is March 29, 2023
 Today is March 30, 2023
 
 Today is April 1, 2023
+
+Today is April Fool's Day and it's Saturday.
