@@ -22,7 +22,7 @@ Today is March 16, 2023 - Fresh start!
 Today is March 17, 2023 - Going well!
 
 ## Week Two
-Today is March 27, 2013 - Fresh start again!
+Today is March 27, 2023 - Fresh start again!
 
 Today is March 28, 2023
 
@@ -33,3 +33,6 @@ Today is March 30, 2023
 Today is April 1, 2023
 
 Today is April Fool's Day and it's Saturday.
+
+## Week Three
+Today is April 24, 2023
